@@ -1,5 +1,5 @@
 Project Overview:
-Draw2Life is an AI-powered application that transforms hand-drawn sketches into realistic images. 
+DoodleDreamer is an AI-powered application that transforms hand-drawn sketches into realistic images. 
 It integrates two powerful models—BLIP for image captioning and Stable Diffusion for image generation.
 The process begins with BLIP generating a descriptive caption from a doodle.
 This caption is then refined to remove sketch-related phrases and converted into a prompt.
